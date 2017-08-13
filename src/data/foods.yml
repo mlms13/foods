@@ -1,0 +1,2011 @@
+
+- name: Coconut milk
+  description: Full fat
+  aliases: []
+  category: Liquid
+  reflux: 5
+  irritant: 3
+  bacteria: 1
+
+- name: Soy milk
+  description: Unsweetened, unflavored
+  aliases:
+    - Soya milk
+    - Soybean milk
+  category: Liquid
+  reflux: 3
+  irritant: 3
+  bacteria: 3
+
+- name: Oat milk
+  description: Unsweetened, unflavored
+  aliases: []
+  category: Liquid
+  reflux: 2
+  irritant: 2
+  bacteria: 2
+
+- name: Almond milk
+  description: Unsweetened, unflavored
+  aliases:
+    - Almond dream
+  category: Liquid
+  reflux: 2
+  irritant: 5
+  bacteria: 3
+
+- name: Rice milk
+  description: Unsweetened, unflavored
+  aliases:
+    - Rice dream
+  category: Liquid
+  reflux: 8
+  irritant: 3
+  bacteria: 9
+
+- name: Kombucha
+  aliases: []
+  category: Liquid
+  reflux: 8
+  irritant: 8
+  bacteria: 2
+
+- name: Vinegar
+  aliases:
+    - Apple Cider Vinegar
+    - Rice Vinegar
+  category: Liquid
+  reflux: 8
+  irritant: 8
+  bacteria: 1
+
+- name: Worchestershire sauce
+  aliases: []
+  category: Liquid
+  reflux: 6
+  irritant: 7
+  bacteria: 3
+
+- name: Soy sauce
+  aliases:
+    - Tamari
+  category: Liquid
+  reflux: 7
+  irritant: 8
+  bacteria: 1
+
+- name: Carbonated beverage
+  aliases:
+    - Carbonated drink
+    - Sparkling water
+  category: Liquid
+  reflux: 8
+  irritant: 3
+  bacteria: 2
+
+- name: Coffee
+  aliases: []
+  category: Liquid
+  reflux: 8
+  irritant: 9
+  bacteria: 3
+
+- name: Alcohol
+  aliases: []
+  category: Liquid
+  reflux: 9
+  irritant: 9
+  bacteria: 2
+
+- name: Vanilla
+  aliases: []
+  category: Liquid
+  reflux: 8
+  irritant: 3
+  bacteria: 2
+
+- name: Black tea
+  aliases: []
+  category: Tea
+  reflux: 8
+  irritant: 5
+  bacteria: 3
+
+- name: Green tea
+  aliases: []
+  category: Tea
+  reflux: 6
+  irritant: 4
+  bacteria: 1
+
+- name: Chamomile
+  aliases: []
+  category: Tea
+  reflux: 2
+  irritant: 2
+  bacteria: 1
+
+- name: Fruit tea
+  aliases:
+    - Herbal tea
+    - Berry tea
+    - Peach tea
+    - Mango tea
+  category: Tea
+  reflux: 5
+  irritant: 4
+  bacteria: 2
+
+- name: Guayusa
+  aliases: []
+  category: Tea
+  reflux: 5
+  irritant: 3
+  bacteria: 1
+
+- name: Hibiscus
+  aliases: []
+  category: Tea
+  reflux: 6
+  irritant: 7
+  bacteria: 2
+
+- name: Honeybush tea
+  aliases: []
+  category: Tea
+  reflux: 7
+  irritant: 7
+  bacteria: 3
+
+- name: Lavender tea
+  aliases:
+    - Herbal tea
+  category: Tea
+  reflux: 4
+  irritant: 3
+  bacteria: 4
+
+- name: Lemon tea
+  aliases:
+    - Herbal tea
+  category: Tea
+  reflux: 4
+  irritant: 6
+  bacteria: 1
+
+- name: Licorice tea
+  aliases: []
+  category: Tea
+  reflux: 6
+  irritant: 6
+  bacteria: 2
+
+- name: Milk thistle
+  aliases: []
+  category: Tea
+  reflux: 2
+  irritant: 2
+  bacteria: 1
+
+- name: Peppermint tea
+  aliases:
+    - Herbal tea
+  category: Tea
+  reflux: 8
+  irritant: 6
+  bacteria: 2
+
+- name: Rooibos
+  aliases: []
+  category: Tea
+  reflux: 8
+  irritant: 3
+  bacteria: 2
+
+- name: Spearmint tea
+  aliases:
+    - Herbal tea
+  category: Tea
+  reflux: 8
+  irritant: 3
+  bacteria: 2
+
+- name: Tulsi
+  aliases: []
+  category: Tea
+  reflux: 2
+  irritant: 2
+  bacteria: 1
+
+- name: Wintermint tea
+  aliases:
+    - Herbal tea
+  category: Tea
+  reflux: 5
+  irritant: 4
+  bacteria: 3
+
+- name: Yerba mate
+  aliases: []
+  category: Tea
+  reflux: 8
+  irritant: 6
+  bacteria: 5
+
+- name: Chocolate
+  aliases: []
+  category: Misc
+  reflux: 9
+  irritant: 9
+  bacteria: 5
+
+- name: Potatoes
+  description: White
+  aliases:
+    - Yukon gold potatoes
+    - Baked potatoes
+    - Baking potatoes
+    - Russet potatoes
+  category: Misc
+  reflux: 9
+  irritant: 3
+  bacteria: 8
+
+- name: Mushrooms
+  aliases:
+    - Shiitake
+    - Portobello
+    - Portabella
+    - Crimini
+    - White mushroom
+    - Baby bella
+  category: Misc
+  reflux: 3
+  irritant: 3
+  bacteria: 3
+
+- name: Tapioca
+  aliases: []
+  category: Misc
+  reflux: 2
+  irritant: 2
+  bacteria: 2
+
+- name: Maple syrup
+  aliases:
+    - Maple sugar
+  category: Sweetener
+  reflux: 5
+  irritant: 2
+  bacteria: 7
+
+- name: Agave syrup
+  aliases: []
+  category: Sweetener
+  reflux: 6
+  irritant: 4
+  bacteria: 8
+
+- name: Stevia
+  aliases: []
+  category: Sweetener
+  reflux: 2
+  irritant: 2
+  bacteria: 1
+
+- name: Coconut Sugar
+  aliases: []
+  category: Sweetener
+  reflux: 2
+  irritant: 2
+  bacteria: 3
+
+- name: Whole Cane Sugar
+  aliases:
+    - Rapunzel
+    - Molasses
+  category: Sweetener
+  reflux: 3
+  irritant: 3
+  bacteria: 4
+
+- name: Raw honey
+  aliases: []
+  category: Sweetener
+  reflux: 5
+  irritant: 5
+  bacteria: 3
+
+# - name: Date sugar
+#   aliases: []
+#   category: Sweetener
+#   reflux: ?
+#   irritant: 4
+#   bacteria: 7
+
+- name: Raw cane sugar
+  aliases:
+    - Turbinado
+  category: Sweetener
+  reflux: 6
+  irritant: 3
+  bacteria: 7
+
+- name: Evaporated cane juice
+  aliases: []
+  category: Sweetener
+  reflux: 8
+  irritant: 4
+  bacteria: 9
+
+- name: Barley malt syrup
+  aliases: []
+  category: Sweetener
+  reflux: 7
+  irritant: 4
+  bacteria: 8
+
+- name: Sugar
+  aliases:
+    - White sugar
+    - Brown sugar
+  category: Sweetener
+  reflux: 7
+  irritant: 3
+  bacteria: 8
+
+- name: Processed honey
+  aliases: []
+  category: Sweetener
+  reflux: 6
+  irritant: 6
+  bacteria: 5
+
+- name: Rice syrup
+  aliases: []
+  category: Sweetener
+  reflux: 9
+  irritant: 4
+  bacteria: 9
+
+- name: High fructose corn syrup
+  aliases: []
+  category: Sweetener
+  reflux: 9
+  irritant: 5
+  bacteria: 9
+
+# - name: Artificial sweeteners
+#   aliases: []
+#   category: Sweetener
+#   reflux: ?
+#   irritant: 5
+#   bacteria: 3
+
+- name: Basil
+  aliases: []
+  category: Spice
+  reflux: 2
+  irritant: 2
+  bacteria: 2
+
+- name: Bay leaves
+  aliases: []
+  category: Spice
+  reflux: 3
+  irritant: 3
+  bacteria: 2
+
+- name: Cardamom
+  aliases: []
+  category: Spice
+  reflux: 5
+  irritant: 5
+  bacteria: 3
+
+- name: Chilis
+  aliases: []
+  category: Spice
+  reflux: 8
+  irritant: 9
+  bacteria: 3
+
+- name: Chives
+  aliases: []
+  category: Spice
+  reflux: 4
+  irritant: 4
+  bacteria: 3
+
+- name: Cilantro
+  aliases: []
+  category: Spice
+  reflux: 5
+  irritant: 5
+  bacteria: 3
+
+- name: Cinnamon
+  aliases: []
+  category: Spice
+  reflux: 2
+  irritant: 2
+  bacteria: 2
+
+- name: Cocoa
+  aliases: []
+  category: Spice
+  reflux: 6
+  irritant: 3
+  bacteria: 6
+
+- name: Coriander
+  aliases: []
+  category: Spice
+  reflux: 6
+  irritant: 6
+  bacteria: 5
+
+- name: Cumin
+  aliases: []
+  category: Spice
+  reflux: 9
+  irritant: 9
+  bacteria: 5
+
+- name: Curry powder
+  aliases: []
+  category: Spice
+  reflux: 6
+  irritant: 7
+  bacteria: 6
+
+- name: Dill weed
+  aliases: []
+  category: Spice
+  reflux: 4
+  irritant: 5
+  bacteria: 2
+
+- name: Fennel
+  aliases: []
+  category: Spice
+  reflux: 6
+  irritant: 7
+  bacteria: 3
+
+- name: Garam masala
+  aliases: []
+  category: Spice
+  reflux: 8
+  irritant: 9
+  bacteria: 6
+
+- name: Powdered ginger
+  aliases:
+    - Dry ginger
+  category: Spice
+  reflux: 5
+  irritant: 3
+  bacteria: 3
+
+- name: Fresh ginger
+  aliases:
+    - Raw ginger
+  category: Spice
+  reflux: 6
+  irritant: 2
+  bacteria: 3
+
+- name: Horseradish
+  aliases: []
+  category: Spice
+  reflux: 8
+  irritant: 9
+  bacteria: 2
+
+- name: Lemon grass
+  aliases: []
+  category: Spice
+  reflux: 2
+  irritant: 5
+  bacteria: 3
+
+- name: Marjoram
+  aliases: []
+  category: Spice
+  reflux: 3
+  irritant: 2
+  bacteria: 3
+
+- name: Mint
+  aliases: []
+  category: Spice
+  reflux: 8
+  irritant: 3
+  bacteria: 2
+
+- name: Mustard seed
+  aliases: []
+  category: Spice
+  reflux: 4
+  irritant: 6
+  bacteria: 4
+
+- name: Nutmeg
+  aliases: []
+  category: Spice
+  reflux: 6
+  irritant: 7
+  bacteria: 4
+
+- name: Oregano
+  aliases: []
+  category: Spice
+  reflux: 3
+  irritant: 3
+  bacteria: 3
+
+- name: Paprika
+  aliases: []
+  category: Spice
+  reflux: 4
+  irritant: 3
+  bacteria: 2
+
+- name: Parsley
+  aliases: []
+  category: Spice
+  reflux: 2
+  irritant: 2
+  bacteria: 4
+
+- name: Pepper
+  aliases:
+    - Black pepper
+  category: Spice
+  reflux: 8
+  irritant: 9
+  bacteria: 2
+
+- name: Tarragon
+  aliases: []
+  category: Spice
+  reflux: 6
+  irritant: 7
+  bacteria: 3
+
+- name: Thyme
+  aliases: []
+  category: Spice
+  reflux: 3
+  irritant: 3
+  bacteria: 2
+
+- name: Turmeric
+  aliases: []
+  category: Spice
+  reflux: 6
+  irritant: 7
+  bacteria: 4
+
+- name: Beef
+  aliases: []
+  category: Protein
+  reflux: 3
+  irritant: 3
+  bacteria: 5
+
+- name: Veal
+  aliases: []
+  category: Protein
+  reflux: 3
+  irritant: 3
+  bacteria: 5
+
+- name: Pork
+  aliases: []
+  category: Protein
+  reflux: 3
+  irritant: 3
+  bacteria: 5
+
+- name: Lamb
+  aliases: []
+  category: Protein
+  reflux: 3
+  irritant: 3
+  bacteria: 5
+
+- name: Processed meat
+  aliases: []
+  category: Protein
+  reflux: 6
+  irritant: 7
+  bacteria: 8
+
+- name: Poultry
+  aliases:
+    - Chicken
+    - Turkey
+    - Duck
+  category: Protein
+  reflux: 2
+  irritant: 2
+  bacteria: 3
+
+- name: Fish
+  aliases: []
+  category: Protein
+  reflux: 1
+  irritant: 1
+  bacteria: 1
+
+- name: Shellfish
+  aliases: []
+  category: Protein
+  reflux: 1
+  irritant: 1
+  bacteria: 1
+
+- name: Eggs
+  aliases: []
+  category: Protein
+  reflux: 0
+  irritant: 1
+  bacteria: 1
+
+- name: Tofu
+  aliases: []
+  category: Protein
+  reflux: 2
+  irritant: 6
+  bacteria: 3
+
+- name: Sprouted tofu
+  aliases: []
+  category: Protein
+  reflux: 2
+  irritant: 3
+  bacteria: 3
+
+- name: Seitan
+  aliases: []
+  category: Protein
+  reflux: 2
+  irritant: 2
+  bacteria: 2
+
+- name: Tempeh
+  aliases: []
+  category: Protein
+  reflux: 3
+  irritant: 3
+  bacteria: 4
+
+# - name: Whey protein
+#   aliases: []
+#   category: Protein
+#   reflux: 6
+#   irritant: ?
+#   bacteria: ?
+
+# - name: Quorn
+#   aliases: []
+#   category: Protein
+#   reflux: ?
+#   irritant: 2
+#   bacteria: 3
+
+- name: Milk
+  description: Cow
+  aliases: []
+  category: Dairy
+  reflux: 6
+  irritant: 6
+  bacteria: 9
+
+- name: Half and half
+  description: Cow
+  aliases: []
+  category: Dairy
+  reflux: 7
+  irritant: 5
+  bacteria: 9
+
+- name: Yogurt
+  description: Cow
+  aliases: []
+  category: Dairy
+  reflux: 4
+  irritant: 5
+  bacteria: 3
+
+- name: Heavy cream
+  aliases: []
+  category: Dairy
+  reflux: 5
+  irritant: 3
+  bacteria: 2
+
+- name: Sour cream
+  aliases: []
+  category: Dairy
+  reflux: 5
+  irritant: 3
+  bacteria: 4
+
+- name: Cream cheese
+  aliases: []
+  category: Dairy
+  reflux: 4
+  irritant: 4
+  bacteria: 5
+
+- name: Cheese
+  description: Cow
+  aliases: []
+  category: Dairy
+  reflux: 3
+  irritant: 2
+  bacteria: 2
+
+- name: Butter
+  description: Cow
+  aliases: []
+  category: Dairy
+  reflux: 2
+  irritant: 1
+  bacteria: 2
+
+- name: Goat milk
+  aliases: []
+  category: Dairy
+  reflux: 4
+  irritant: 4
+  bacteria: 3
+
+- name: Goat yogurt
+  aliases: []
+  category: Dairy
+  reflux: 3
+  irritant: 3
+  bacteria: 3
+
+- name: Goat cheese
+  aliases: []
+  category: Dairy
+  reflux: 3
+  irritant: 2
+  bacteria: 2
+
+- name: Goat butter
+  aliases: []
+  category: Dairy
+  reflux: 2
+  irritant: 1
+  bacteria: 2
+
+- name: Sheep cheese
+  aliases: []
+  category: Dairy
+  reflux: 3
+  irritant: 3
+  bacteria: 2
+
+- name: Almonds
+  aliases: []
+  category: Nut
+  reflux: 4
+  irritant: 4
+  bacteria: 2
+
+- name: Pecans
+  aliases: []
+  category: Nut
+  reflux: 5
+  irritant: 4
+  bacteria: 3
+
+- name: Walnuts
+  aliases: []
+  category: Nut
+  reflux: 6
+  irritant: 6
+  bacteria: 4
+
+- name: Pine nuts
+  aliases: []
+  category: Nut
+  reflux: 3
+  irritant: 3
+  bacteria: 2
+
+- name: Pistachios
+  aliases: []
+  category: Nut
+  reflux: 4
+  irritant: 4
+  bacteria: 3
+
+- name: Macadamias
+  aliases: []
+  category: Nut
+  reflux: 4
+  irritant: 4
+  bacteria: 5
+
+- name: Cashews
+  aliases: []
+  category: Nut
+  reflux: 5
+  irritant: 5
+  bacteria: 6
+
+- name: Peanuts
+  aliases: []
+  category: Nut
+  reflux: 6
+  irritant: 6
+  bacteria: 7
+
+- name: Sesame seeds
+  aliases:
+    - Tahini
+  category: Seeds
+  reflux: 4
+  irritant: 4
+  bacteria: 2
+
+- name: Flax seeds
+  aliases: []
+  category: Seeds
+  reflux: 4
+  irritant: 4
+  bacteria: 3
+
+- name: Sunflower seeds
+  aliases: []
+  category: Seeds
+  reflux: 3
+  irritant: 4
+  bacteria: 4
+
+- name: Pumpkin seeds
+  aliases: []
+  category: Seeds
+  reflux: 4
+  irritant: 5
+  bacteria: 3
+
+- name: Hemp products
+  aliases: []
+  category: Seeds
+  reflux: 4
+  irritant: 5
+  bacteria: 5
+
+- name: Lentils
+  aliases: []
+  category: Legume
+  reflux: 2
+  irritant: 2
+  bacteria: 2
+
+- name: Split peas
+  aliases: []
+  category: Legume
+  reflux: 2
+  irritant: 2
+  bacteria: 2
+
+- name: Beans
+  aliases:
+    - Black beans
+    - Pinto beans
+    - Navy beans
+    - Kidney beans
+    - Garbanzo beans
+    - Great northern beans
+    - Adzuki beans
+  category: Legume
+  reflux: 2
+  irritant: 4
+  bacteria: 4
+
+- name: Soy beans
+  aliases: []
+  category: Legume
+  reflux: 3
+  irritant: 5
+  bacteria: 3
+
+- name: White flour
+  aliases: []
+  category: Grain
+  reflux: 8
+  irritant: 3
+  bacteria: 9
+
+- name: Whole wheat flour
+  aliases: []
+  category: Grain
+  reflux: 3
+  irritant: 2
+  bacteria: 4
+
+- name: Sprouted whole wheat flour
+  aliases: []
+  category: Grain
+  reflux: 3
+  irritant: 3
+  bacteria: 2
+
+# - name: Gluten flour
+#   aliases: []
+#   category: Grain
+#   reflux: ?
+#   irritant: 3
+#   bacteria: 4
+
+- name: Wheat bran
+  aliases: []
+  category: Grain
+  reflux: 3
+  irritant: 3
+  bacteria: 4
+
+- name: Bulger
+  aliases: []
+  category: Grain
+  reflux: 3
+  irritant: 4
+  bacteria: 4
+
+- name: Wheat germ
+  aliases: []
+  category: Grain
+  reflux: 4
+  irritant: 6
+  bacteria: 6
+
+- name: Couscous
+  aliases: []
+  category: Grain
+  reflux: 4
+  irritant: 2
+  bacteria: 7
+
+- name: Ezekiel bread
+  aliases: []
+  category: Grain
+  reflux: 3
+  irritant: 3
+  bacteria: 4
+
+- name: Spelt berries
+  aliases: []
+  category: Grain
+  reflux: 3
+  irritant: 3
+  bacteria: 3
+
+- name: Whole spelt flour
+  aliases: []
+  category: Grain
+  reflux: 3
+  irritant: 2
+  bacteria: 2
+
+- name: Refined spelt flour
+  aliases: []
+  category: Grain
+  reflux: 3
+  irritant: 5
+  bacteria: 5
+
+- name: Sprouted spelt flour
+  aliases: []
+  category: Grain
+  reflux: 3
+  irritant: 3
+  bacteria: 1
+
+- name: Kamut berries
+  aliases: []
+  category: Grain
+  reflux: 3
+  irritant: 5
+  bacteria: 2
+
+- name: Kamut flour
+  aliases: []
+  category: Grain
+  reflux: 3
+  irritant: 3
+  bacteria: 4
+
+- name: Oats
+  description: Instant
+  aliases: []
+  category: Grain
+  reflux: 2
+  irritant: 4
+  bacteria: 5
+
+- name: Oats
+  description: Not instant
+  aliases: []
+  category: Grain
+  reflux: 2
+  irritant: 2
+  bacteria: 2
+
+- name: Oats flour
+  aliases: []
+  category: Grain
+  reflux: 2
+  irritant: 3
+  bacteria: 4
+
+- name: Oats bran
+  aliases: []
+  category: Grain
+  reflux: 2
+  irritant: 3
+  bacteria: 3
+
+- name: Barley
+  description: Hulless or pearled
+  aliases: []
+  category: Grain
+  reflux: 2
+  irritant: 2
+  bacteria: 3
+
+- name: Barley flour
+  aliases: []
+  category: Grain
+  reflux: 2
+  irritant: 3
+  bacteria: 4
+
+- name: Quinoa
+  description: Whole
+  aliases: []
+  category: Grain
+  reflux: 1
+  irritant: 2
+  bacteria: 1
+
+- name: Quinoa flour
+  aliases: []
+  category: Grain
+  reflux: 1
+  irritant: 3
+  bacteria: 2
+
+- name: Wild rice
+  aliases: []
+  category: Grain
+  reflux: 1
+  irritant: 2
+  bacteria: 2
+
+- name: Brown rice
+  aliases: []
+  category: Grain
+  reflux: 6
+  irritant: 3
+  bacteria: 7
+
+- name: Brown rice flour
+  aliases:
+    - Brown rice pasta
+  category: Grain
+  reflux: 6
+  irritant: 4
+  bacteria: 8
+
+- name: White rice
+  aliases: []
+  category: Grain
+  reflux: 8
+  irritant: 3
+  bacteria: 9
+
+- name: Rye berries
+  aliases: []
+  category: Grain
+  reflux: 3
+  irritant: 3
+  bacteria: 2
+
+- name: Rye flour
+  aliases: []
+  category: Grain
+  reflux: 3
+  irritant: 3
+  bacteria: 6
+
+- name: Cornmeal
+  aliases:
+    - Corn chips
+  category: Grain
+  reflux: 4
+  irritant: 4
+  bacteria: 9
+
+- name: Buckwheat groats
+  aliases: []
+  category: Grain
+  reflux: 5
+  irritant: 3
+  bacteria: 4
+
+- name: Buckwheat flour
+  aliases: []
+  category: Grain
+  reflux: 5
+  irritant: 5
+  bacteria: 5
+
+- name: Carrots
+  description: Cooked
+  aliases: []
+  category: Vegetable
+  reflux: 2
+  irritant: 2
+  bacteria: 2
+
+- name: Carrots
+  description: Raw
+  aliases: []
+  category: Vegetable
+  reflux: 2
+  irritant: 5
+  bacteria: 2
+
+- name: Sweet potatoes
+  description: Cooked
+  aliases:
+    - Yam
+  category: Vegetable
+  reflux: 2
+  irritant: 2
+  bacteria: 2
+
+- name: Sweet potatoes
+  description: Raw
+  aliases:
+    - Yam
+  category: Vegetable
+  reflux: 2
+  irritant: 5
+  bacteria: 2
+
+- name: Winter squash
+  description: Cooked
+  aliases:
+    - Acorn squash
+    - Banana Squash
+    - Buttercup Squash
+    - Butternut Squash
+    - Delicata Squash
+    - Hubbard Squash
+    - Kabocha Squash
+    - Pumpkin
+    - Spaghetti Squash
+    - Sweet Dumpling Squash
+    - Turban Squash
+  category: Vegetable
+  reflux: 2
+  irritant: 2
+  bacteria: 2
+
+- name: Winter squash
+  description: Raw
+  aliases:
+    - Acorn squash
+    - Banana Squash
+    - Buttercup Squash
+    - Butternut Squash
+    - Delicata Squash
+    - Hubbard Squash
+    - Kabocha Squash
+    - Pumpkin
+    - Spaghetti Squash
+    - Sweet Dumpling Squash
+    - Turban Squash
+  category: Vegetable
+  reflux: 2
+  irritant: 5
+  bacteria: 2
+
+- name: Broccoli
+  description: Cooked
+  aliases: []
+  category: Vegetable
+  reflux: 3
+  irritant: 5
+  bacteria: 3
+
+- name: Broccoli
+  description: Raw
+  aliases: []
+  category: Vegetable
+  reflux: 3
+  irritant: 8
+  bacteria: 3
+
+- name: Cauliflower
+  description: Cooked
+  aliases: []
+  category: Vegetable
+  reflux: 3
+  irritant: 5
+  bacteria: 3
+
+- name: Cauliflower
+  description: Raw
+  aliases: []
+  category: Vegetable
+  reflux: 3
+  irritant: 8
+  bacteria: 3
+
+- name: Cabbage
+  description: Cooked
+  aliases: []
+  category: Vegetable
+  reflux: 3
+  irritant: 5
+  bacteria: 3
+
+- name: Cabbage
+  description: Raw
+  aliases: []
+  category: Vegetable
+  reflux: 3
+  irritant: 8
+  bacteria: 3
+
+- name: Brussels sprouts
+  description: Cooked
+  aliases: []
+  category: Vegetable
+  reflux: 3
+  irritant: 5
+  bacteria: 3
+
+- name: Brussels sprouts
+  description: Raw
+  aliases: []
+  category: Vegetable
+  reflux: 3
+  irritant: 8
+  bacteria: 3
+
+- name: Greens
+  description: Cooked
+  aliases:
+    - Lettuce
+    - Romaine
+    - Spinach
+    - Swiss chard
+    - Kale
+  category: Vegetable
+  reflux: 3
+  irritant: 3
+  bacteria: 3
+
+- name: Greens
+  description: Raw
+  aliases:
+    - Lettuce
+    - Romaine
+    - Spinach
+    - Swiss chard
+    - Kale
+  category: Vegetable
+  reflux: 3
+  irritant: 6
+  bacteria: 3
+
+- name: Sprouts
+  description: Cooked
+  aliases: []
+  category: Vegetable
+  reflux: 3 # 3-6, technically, but what do we do with that?
+  irritant: 3
+  bacteria: 3
+
+- name: Sprouts
+  description: Raw
+  aliases: []
+  category: Vegetable
+  reflux: 3
+  irritant: 6
+  bacteria: 3
+
+- name: Green beans
+  description: Cooked
+  aliases: []
+  category: Vegetable
+  reflux: 3
+  irritant: 3
+  bacteria: 3
+
+- name: Green beans
+  description: Raw
+  aliases: []
+  category: Vegetable
+  reflux: 3
+  irritant: 5
+  bacteria: 3
+
+- name: Cucumber
+  description: Cooked
+  aliases: []
+  category: Vegetable
+  reflux: 3
+  irritant: 3
+  bacteria: 3
+
+- name: Cucumber
+  description: Raw
+  aliases: []
+  category: Vegetable
+  reflux: 3
+  irritant: 5
+  bacteria: 3
+
+- name: Summer squash
+  description: Cooked
+  aliases:
+    - Yellow squash
+    - Zucchini
+  category: Vegetable
+  reflux: 3
+  irritant: 3
+  bacteria: 3
+
+- name: Summer squash
+  description: Raw
+  aliases:
+    - Yellow squash
+    - Zucchini
+  category: Vegetable
+  reflux: 3
+  irritant: 5
+  bacteria: 3
+
+- name: Eggplant
+  description: Cooked
+  aliases: []
+  category: Vegetable
+  reflux: 3
+  irritant: 4
+  bacteria: 5
+
+- name: Eggplant
+  description: Raw
+  aliases: []
+  category: Vegetable
+  reflux: 3
+  irritant: 5
+  bacteria: 5
+
+- name: Peppers
+  description: Cooked
+  aliases:
+    - Bell peppers
+    - Green peppers
+    - Red peppers
+    - Yellow peppers
+    - Orange peppers
+    - Poblano peppers
+  category: Vegetable
+  reflux: 5
+  irritant: 5
+  bacteria: 3
+
+- name: Peppers
+  description: Raw
+  aliases:
+    - Bell peppers
+    - Green peppers
+    - Red peppers
+    - Yellow peppers
+    - Orange peppers
+    - Poblano peppers
+  category: Vegetable
+  reflux: 5
+  irritant: 8
+  bacteria: 3
+
+- name: Corn
+  aliases: []
+  category: Vegetable
+  reflux: 4
+  irritant: 3
+  bacteria: 9
+
+- name: Beets
+  aliases: []
+  category: Vegetable
+  reflux: 4
+  irritant: 3
+  bacteria: 8
+
+- name: Peas
+  description: Cooked
+  aliases:
+    - Snow peas
+  category: Vegetable
+  reflux: 4
+  irritant: 4
+  bacteria: 9
+
+- name: Peas
+  description: Raw
+  aliases:
+    - Snow peas
+  category: Vegetable
+  reflux: 4
+  irritant: 7
+  bacteria: 9
+
+- name: Artichokes
+  aliases: []
+  category: Vegetable
+  reflux: 3
+  irritant: 4
+  bacteria: 5
+
+- name: Celery
+  description: Cooked
+  aliases: []
+  category: Vegetable
+  reflux: 5
+  irritant: 6
+  bacteria: 2
+
+- name: Celery
+  description: Raw
+  aliases: []
+  category: Vegetable
+  reflux: 5
+  irritant: 9
+  bacteria: 2
+
+- name: Asparagus
+  aliases: []
+  category: Vegetable
+  reflux: 2
+  irritant: 5
+  bacteria: 2
+
+- name: Tomatoes
+  description: Cooked
+  aliases: []
+  category: Vegetable
+  reflux: 5
+  irritant: 6
+  bacteria: 1
+
+- name: Tomatoes
+  description: Raw
+  aliases: []
+  category: Vegetable
+  reflux: 5
+  irritant: 9
+  bacteria: 1
+
+- name: Onions
+  description: Cooked
+  aliases: []
+  category: Vegetable
+  reflux: 5
+  irritant: 6
+  bacteria: 4
+
+- name: Onions
+  description: Raw
+  aliases: []
+  category: Vegetable
+  reflux: 5
+  irritant: 9
+  bacteria: 4
+
+- name: Garlic
+  description: Cooked
+  aliases: []
+  category: Vegetable
+  reflux: 3
+  irritant: 6
+  bacteria: 2
+
+- name: Garlic
+  description: Raw
+  aliases: []
+  category: Vegetable
+  reflux: 3
+  irritant: 9
+  bacteria: 2
+
+- name: Shallots
+  description: Cooked
+  aliases: []
+  category: Vegetable
+  reflux: 4
+  irritant: 5
+  bacteria: 2
+
+- name: Shallots
+  description: Raw
+  aliases: []
+  category: Vegetable
+  reflux: 4
+  irritant: 8
+  bacteria: 2
+
+- name: Leeks
+  description: Cooked
+  aliases: []
+  category: Vegetable
+  reflux: 2
+  irritant: 4
+  bacteria: 2
+
+- name: Leeks
+  description: Raw
+  aliases: []
+  category: Vegetable
+  reflux: 2
+  irritant: 8
+  bacteria: 2
+
+- name: Green onions
+  description: Cooked
+  aliases: []
+  category: Vegetable
+  reflux: 3
+  irritant: 5
+  bacteria: 2
+
+- name: Green onions
+  description: Raw
+  aliases: []
+  category: Vegetable
+  reflux: 3
+  irritant: 8
+  bacteria: 2
+
+- name: Olives
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 3
+  irritant: 5
+  bacteria: 5
+
+- name: Olives
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 3
+  irritant: 8
+  bacteria: 5
+
+- name: Avocados
+  aliases: []
+  category: Fruit
+  reflux: 2
+  irritant: 2
+  bacteria: 1
+
+- name: Acai berries
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 3
+  irritant: 4
+  bacteria: 2
+
+- name: Acai berries
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 3
+  irritant: 7
+  bacteria: 2
+
+- name: Pineapple
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 2
+  irritant: 3
+  bacteria: 2
+
+- name: Pineapple
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 2
+  irritant: 7
+  bacteria: 2
+
+- name: Kiwi
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 2
+  irritant: 3
+  bacteria: 2
+
+- name: Kiwi
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 2
+  irritant: 7
+  bacteria: 2
+
+- name: Peaches
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 2
+  irritant: 3
+  bacteria: 2
+
+- name: Peaches
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 2
+  irritant: 6
+  bacteria: 2
+
+
+- name: Cherries
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 2
+  irritant: 3
+  bacteria: 2
+
+- name: Cherries
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 2
+  irritant: 6
+  bacteria: 2
+
+- name: Citrus
+  description: Cooked
+  aliases:
+    - Lemon
+    - Lime
+    - Orange
+    - Grapefruit
+  category: Fruit
+  reflux: 4
+  irritant: 5
+  bacteria: 3
+
+- name: Citrus
+  description: Raw
+  aliases:
+    - Lemon
+    - Lime
+    - Orange
+    - Grapefruit
+  category: Fruit
+  reflux: 4
+  irritant: 8
+  bacteria: 3
+
+- name: Banana
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 4
+  irritant: 3
+  bacteria: 5
+
+- name: Banana
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 4
+  irritant: 6
+  bacteria: 5
+
+-name: Apples
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 5
+  irritant: 6
+  bacteria: 7
+
+-name: Apples
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 7
+  irritant: 9
+  bacteria: 7
+
+- name: Strawberries
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 3
+  irritant: 3
+  bacteria: 2
+
+- name: Strawberries
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 3
+  irritant: 5
+  bacteria: 2
+
+- name: Watermelon
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 4
+  irritant: 3
+  bacteria: 5
+
+- name: Watermelon
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 4
+  irritant: 5
+  bacteria: 5
+
+- name: Honeydew
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 4
+  irritant: 2
+  bacteria: 5
+
+- name: Honeydew
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 4
+  irritant: 5
+  bacteria: 5
+
+- name: Raspberries
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 5
+  irritant: 3
+  bacteria: 6
+
+- name: Raspberries
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 5
+  irritant: 6
+  bacteria: 6
+
+- name: Apricots
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 5
+  irritant: 3
+  bacteria: 5
+
+- name: Apricots
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 5
+  irritant: 6
+  bacteria: 5
+
+- name: Papaya
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 4
+  irritant: 3
+  bacteria: 6
+
+- name: Papaya
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 4
+  irritant: 7
+  bacteria: 6
+
+- name: Pomegranite
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 5
+  irritant: 3
+  bacteria: 5
+
+- name: Pomegranite
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 5
+  irritant: 7
+  bacteria: 5
+
+- name: Plums
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 4
+  irritant: 3
+  bacteria: 5
+
+- name: Plums
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 4
+  irritant: 6
+  bacteria: 5
+
+- name: Cranberries
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 3
+  irritant: 5
+  bacteria: 3
+
+- name: Cranberries
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 3
+  irritant: 9
+  bacteria: 3
+
+- name: Pears
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 4
+  irritant: 3
+  bacteria: 4
+
+- name: Pears
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 4
+  irritant: 7
+  bacteria: 4
+
+- name: Blueberries
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 5
+  irritant: 3
+  bacteria: 2
+
+- name: Blueberries
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 5
+  irritant: 7
+  bacteria: 2
+
+- name: Mango
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 3
+  irritant: 3
+  bacteria: 7
+
+- name: Mango
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 3
+  irritant: 7
+  bacteria: 7
+
+- name: Grapes
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 5
+  irritant: 3
+  bacteria: 9
+
+- name: Grapes
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 5
+  irritant: 7
+  bacteria: 9
+
+- name: Cantalope
+  description: Cooked
+  aliases: []
+  category: Fruit
+  reflux: 5
+  irritant: 3
+  bacteria: 8
+
+- name: Cantalope
+  description: Raw
+  aliases: []
+  category: Fruit
+  reflux: 5
+  irritant: 7
+  bacteria: 8
+
+- name: Dried coconut
+  aliases: []
+  category: Fruit
+  reflux: 3
+  irritant: 3
+  bacteria: 1
+
+- name: Dried fruit (unsweetened)
+  aliases: []
+  category: Fruit
+  reflux: 5
+  irritant: 5
+  bacteria: 6
+
+- name: Dried fruit (sweetened)
+  aliases: []
+  category: Fruit
+  reflux: 6
+  irritant: 7
+  bacteria: 9
+
+  # { name : String
+  # , aliases : List String
+  # , category : FoodCategory
+  # , reflux : Int
+  # , gastic : Int
+  # , bacteria : Int
+  # }
+
+  # type FoodCategory
+  # = Protein
+  # | Dairy
+  # | Nut
+  # | Seed
+  # | Legume
+  # | Grain
+  # | Vegetable
+  # | Fruit
+  # | Liquid
+  # | Tea
+  # | Misc
+  # | Sweetener
+  # | Spice
+  # | Medication
