@@ -1725,7 +1725,7 @@
   irritant: 6
   bacteria: 5
 
--name: Apples
+- name: Apples
   description: Cooked
   aliases: []
   category: Fruit
@@ -1733,7 +1733,7 @@
   irritant: 6
   bacteria: 7
 
--name: Apples
+- name: Apples
   description: Raw
   aliases: []
   category: Fruit
@@ -1990,7 +1990,7 @@
   # , aliases : List String
   # , category : FoodCategory
   # , reflux : Int
-  # , gastic : Int
+  # , irritant : Int
   # , bacteria : Int
   # }
 
